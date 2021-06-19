@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Sazzad hossain",
+        "email": "18-38401-2@stuadent.aiub.edu",
+        "password": "123456789",
+        "comment": "this is a test life",
+        "gender": "Male",
+        "hobby": ",reading",
+        "file_path": "File\/General (00285 - SOFTWARE ENGINEERING [B][FALL 20-21]) _ Microsoft Teams 12_14_2020 6_09_08 PM.png"
+    },
+    {
+        "name": "Sazzad hossain",
+        "email": "18-38401-2@stuadent.aiub.edu",
+        "password": "123456789",
+        "comment": "lab 3",
+        "gender": "Male",
+        "hobby": ",riding",
+        "file_path": "File\/Forza Motorsport 6_ Apex 7_25_2019 6_11_22 PM"
+    },
+    
+]
